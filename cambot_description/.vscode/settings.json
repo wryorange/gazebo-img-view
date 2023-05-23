@@ -1,0 +1,40 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/wryorange/turtlebot3_ws/build/turtlebot3_teleop",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+    "/home/wryorange/turtlebot3_ws/build/turtlebot3_example",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+    "/home/wryorange/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+    "/home/wryorange/robot_ws/build/topic_service_action_rclpy_example",
+    "/home/wryorange/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/build/ros2env",
+    "/home/wryorange/robot_ws/install/ros2env/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/build/my_first_ros_rclpy_pkg",
+    "/home/wryorange/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/install/msg_srv_action_interface_example/local/lib/python3.10/dist-packages",
+    "/home/wryorange/robot_ws/build/logging_rclpy_example",
+    "/home/wryorange/robot_ws/install/logging_rclpy_example/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/wryorange/turtlebot3_ws/build/turtlebot3_teleop",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+    "/home/wryorange/turtlebot3_ws/build/turtlebot3_example",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+    "/home/wryorange/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+    "/home/wryorange/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+    "/home/wryorange/robot_ws/build/topic_service_action_rclpy_example",
+    "/home/wryorange/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/build/ros2env",
+    "/home/wryorange/robot_ws/install/ros2env/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/build/my_first_ros_rclpy_pkg",
+    "/home/wryorange/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+    "/home/wryorange/robot_ws/install/msg_srv_action_interface_example/local/lib/python3.10/dist-packages",
+    "/home/wryorange/robot_ws/build/logging_rclpy_example",
+    "/home/wryorange/robot_ws/install/logging_rclpy_example/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}
