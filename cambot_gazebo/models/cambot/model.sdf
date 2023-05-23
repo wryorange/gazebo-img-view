@@ -1,5 +1,9 @@
 <sdf version='1.7'>
   <model name='cambot'>
+    <joint name="fixedGnd" type="fixed">
+      <parent>world</parent>
+      <child>base</child>
+    </joint>
     <link name='base'>
       <inertial>
         <pose>0 0 1 0 -0 0</pose>
